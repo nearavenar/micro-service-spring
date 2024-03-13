@@ -1,0 +1,2 @@
+/* DATOS PARA PRUEBA*/
+INSERT INTO "Usuario" (usuario, password, nombre, email, telefono, direccion, estado) VALUES ('nico', 'nico', 'nicolás', 'nicolas.aravena25@gmail.com', 950700929, 'Cerro Tronador 1923', true);
